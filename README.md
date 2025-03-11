@@ -33,11 +33,7 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://JayantGoel001.github.io/">
-    <img src="src/screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
+
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.<br/>
